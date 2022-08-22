@@ -2,4 +2,4 @@
 
 * Black panther
 * Black Widow
-* Black Widow
+* Vignolo
