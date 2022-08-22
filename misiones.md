@@ -1,4 +1,4 @@
 # Misiones
 
 * investigar
-* investigar
+* comprar
